@@ -1,176 +1,25 @@
-# 👋 Hi, I'm Sthembiso Nyandeni
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sthembiso Nyandeni</h1><br><br><h3 align="center"><br>Aspiring Azure Cloud Engineer | DevOps | Cloud Security | Infrastructure as Code<br></h3><br><br>---<br><br>## 🚀 About Me<br><br>I'm an aspiring Cloud Engineer from South Africa who is passionate about designing, automating, and securing cloud infrastructure.<br><br>My goal is to become a world-class Azure Cloud Engineer by building practical, production-inspired projects that reflect industry best practices in cloud architecture, automation, security, and DevOps.<br><br>Rather than collecting certificates alone, I focus on developing real technical skills through hands-on engineering projects, continuous learning, and detailed technical documentation.<br><br>This GitHub serves as my engineering portfolio, where I document everything I build, learn, and improve throughout my cloud journey.<br><br>---<br><br>## 🔭 Current Focus<br><br>- Microsoft Azure (AZ-104)<br>- Infrastructure as Code with Terraform<br>- Azure Networking<br>- Linux Administration<br>- PowerShell & Bash Automation<br>- Git & GitHub<br>- GitHub Actions (CI/CD)<br>- Docker<br>- Kubernetes (AKS)<br>- Azure Monitoring & Logging<br>- Cloud Security Best Practices<br><br>---<br><br>## 🛠 Technologies & Tools<br><br>### ☁️ Cloud<br>- Microsoft Azure<br>- Azure Virtual Machines<br>- Azure Storage<br>- Azure Virtual Networks<br>- Azure Monitor<br>- Azure Key Vault<br>- Azure App Services<br>- Azure Load Balancer<br>- Azure Bastion<br>- Azure Backup<br><br>### 🏗 Infrastructure as Code<br>- Terraform<br>- Bicep<br><br>### ⚙️ DevOps<br>- Git<br>- GitHub<br>- GitHub Actions<br>- CI/CD Pipelines<br><br>### 🐳 Containers<br>- Docker<br>- Kubernetes (AKS)<br><br>### 💻 Operating Systems<br>- Linux<br>- Windows Server<br><br>### 📜 Scripting<br>- PowerShell<br>- Bash<br><br>### 🌐 Networking<br>- TCP/IP<br>- DNS<br>- DHCP<br>- VPN<br>- Routing<br>- Firewalls<br>- Network Security<br>- Subnetting<br><br>---<br><br>## 📂 What You'll Find Here<br><br>My repositories focus on solving practical cloud engineering problems through real-world projects, including:<br><br>- Azure Infrastructure Deployments<br>- Infrastructure as Code<br>- DevOps Automation<br>- CI/CD Pipelines<br>- Cloud Security Labs<br>- Azure Networking<br>- Linux Administration<br>- Docker & Kubernetes<br>- Monitoring & Logging<br>- Automation Scripts<br>- Technical Documentation<br>- Architecture Diagrams<br><br>Every project includes:<br><br>- Documentation<br>- Architecture Diagrams<br>- Deployment Instructions<br>- Security Considerations<br>- Lessons Learned<br>- Future Improvements<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Microsoft Azure Administrator (AZ-104)<br>- Terraform<br>- Docker<br>- Kubernetes<br>- GitHub Actions<br>- Azure Security<br>- DevOps Engineering<br>- Cloud Architecture<br>- Linux Administration<br><br>---<br><br>## 🎯 2026 Engineering Roadmap<br><br>✔ Microsoft Azure Fundamentals (AZ-900)<br><br>🚧 Microsoft Azure Administrator (AZ-104)<br><br>🚧 Terraform Associate<br><br>🚧 Docker<br><br>🚧 Kubernetes (AKS)<br><br>🚧 GitHub Actions<br><br>🚧 Azure Monitoring<br><br>🚧 Azure Security<br><br>🚧 Cloud Resume Challenge<br><br>🚧 Production-Style Azure Projects<br><br>---<br><br>## 🤝 Looking to Collaborate On<br><br>- Azure Cloud Projects<br>- Open Source<br>- DevOps<br>- Infrastructure as Code<br>- Cloud Automation<br>- Cloud Security<br><br>---<br><br>## 💬 Ask Me About<br><br>- Microsoft Azure<br>- Cloud Computing<br>- Linux<br>- Git & GitHub<br>- Networking Fundamentals<br>- Terraform Learning<br>- DevOps Learning Journey<br><br>---<br><br>## 💡 Engineering Philosophy<br><br>I believe the best way to learn cloud engineering is by building.<br><br>Every repository on this profile is an opportunity to improve my understanding of cloud technologies, automation, security, and infrastructure design.<br><br>My goal is not just to earn certifications but to develop the practical skills needed to design, deploy, automate, monitor, and secure reliable cloud environments.<br><br>---<br><br>## 📈 Long-Term Goal<br><br>To become a highly skilled Azure Cloud Engineer capable of designing secure, scalable, and automated cloud solutions while contributing to engineering teams that value reliability, continuous learning, and technical excellence.<br><br>---<br><br>## 📫 Let's Connect<br><br>I'm always open to connecting with engineers, recruiters, and technology professionals who share an interest in Cloud Computing, DevOps, Automation, and Cybersecurity.<br><br>Thank you for visiting my GitHub!
 
-### Azure Cloud Engineer | Cloud Infrastructure | DevOps | Cloud Security
 
-I am an aspiring Cloud Engineer from South Africa with a strong focus on designing, deploying, securing, and automating cloud infrastructure on Microsoft Azure.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sthembiso_nyandeni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sthembiso Nyandeni) 
 
-My goal is to build cloud solutions that are secure, scalable, reliable, and easy to maintain. I believe the best way to learn cloud engineering is by solving real-world problems, so this GitHub is dedicated to hands-on projects that demonstrate practical skills rather than course completion.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vumisa20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vumisa20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vumisa20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🚀 Current Focus
-
-* Microsoft Azure
-* Cloud Infrastructure
-* Infrastructure as Code (Terraform & Bicep)
-* DevOps & CI/CD
-* Azure Administration
-* Cloud Security
-* Linux Administration
-* Docker & Kubernetes
-* Automation with PowerShell and Bash
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Vumisa20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 What You'll Find Here
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Every repository is built to reflect real engineering practices, including:
 
-* Well-documented architecture
-* Infrastructure as Code
-* Security-first configurations
-* Automation where possible
-* Deployment guides
-* Architecture diagrams
-* Lessons learned
-* Future improvements
-* Production-style project organization
 
-My objective is not simply to deploy resources, but to understand why each design decision matters and how it impacts security, reliability, cost, and scalability.
 
----
-
-## 🛠 Technical Skills
-
-### Cloud
-
-* Microsoft Azure
-* Azure Virtual Networks
-* Virtual Machines
-* Azure Storage
-* Azure Monitor
-* Azure Key Vault
-* Azure Load Balancer
-* Network Security Groups
-* Azure Backup
-* Azure App Services
-* Azure Identity & Access Management
-
-### Infrastructure as Code
-
-* Terraform
-* Bicep
-
-### DevOps
-
-* Git
-* GitHub
-* GitHub Actions
-* CI/CD Pipelines
-
-### Containers
-
-* Docker
-* Kubernetes (AKS)
-
-### Operating Systems
-
-* Linux
-* Windows Server
-
-### Scripting
-
-* PowerShell
-* Bash
-
-### Networking
-
-* TCP/IP
-* DNS
-* DHCP
-* VPN
-* Firewalls
-* Routing
-* Subnetting
-* Network Troubleshooting
-
----
-
-## 📂 Featured Projects
-
-### Azure Landing Zone
-
-Enterprise-ready Azure environment built with Infrastructure as Code.
-
-### Azure Networking Lab
-
-Design and implementation of secure virtual networks, subnets, routing, and security controls.
-
-### Azure Virtual Machine Deployment
-
-Automated deployment of Azure virtual machines with networking, monitoring, and security configurations.
-
-### Infrastructure as Code
-
-Production-style Azure deployments using Terraform with reusable modules and version-controlled infrastructure.
-
-### Azure Monitoring
-
-Monitoring cloud infrastructure using Azure Monitor, Log Analytics, and alerting.
-
-### Cloud Security
-
-Implementation of least privilege access, identity management, Key Vault integration, and security best practices.
-
-### CI/CD Automation
-
-Automated infrastructure deployment using GitHub Actions and Infrastructure as Code.
-
-### Kubernetes on Azure
-
-Containerized applications deployed and managed using Azure Kubernetes Service (AKS).
-
----
-
-## 📈 Engineering Principles
-
-I strive to follow industry best practices in every project:
-
-* Infrastructure as Code
-* Least Privilege Access
-* Security by Design
-* Automation First
-* Documentation First
-* Reproducible Deployments
-* Version Control
-* Continuous Improvement
-* Cost Awareness
-* Operational Excellence
-
----
-
-## 📚 Current Learning Journey
-
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Microsoft Certified: Azure Administrator Associate (AZ-104)
-* Terraform
-* Docker
-* Kubernetes
-* Azure Security
-* DevOps Practices
-
----
-
-## 🎯 Career Objective
-
-I am seeking opportunities where I can contribute to cloud infrastructure, automation, and security while continuing to grow as a cloud engineer.
-
-I enjoy solving technical challenges, learning new technologies, and building solutions that improve reliability, scalability, and operational efficiency.
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with cloud engineers, recruiters, and technology professionals who are passionate about cloud computing, DevOps, automation, and cybersecurity.
-
-If you're reviewing my profile, thank you for taking the time to explore my work. Feedback is always welcome, and I continuously improve my projects as I gain new knowledge and experience.
